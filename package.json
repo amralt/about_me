@@ -7,16 +7,19 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
+    "framer-motion": "^11.0.8",
+    "gh-pages": "^6.3.0",
+    "i18next": "^23.10.1",
+    "i18next-browser-languagedetector": "^7.2.0",
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "framer-motion": "^11.0.8",
-    "i18next": "^23.10.1",
-    "react-i18next": "^14.1.0",
-    "i18next-browser-languagedetector": "^7.2.0"
+    "react-i18next": "^14.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
