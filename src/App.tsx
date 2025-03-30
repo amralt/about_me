@@ -41,7 +41,7 @@ function App() {
           <Hero />
           <About />
           <Skills />
-          <Projects />
+          {/* <Projects /> */}
           <Contact />
         </motion.main>
       </div>

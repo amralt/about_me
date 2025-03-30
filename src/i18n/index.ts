@@ -9,10 +9,10 @@ i18n
     resources: {
       en: {
         translation: {
-          "greeting": "Hi, I'm",
+          "greeting": "Hi, I'm Amir Altin",
           "role": "Full Stack Developer",
           "about": "About Me",
-          "aboutText": "Passionate about creating beautiful and functional web applications. With expertise in modern web technologies and a keen eye for design.",
+          "aboutText": "Passionate about creating beautiful and functional web applications. In the future I plan to start studying mathematics and neural networks.",
           "skills": "Skills",
           "contact": "Contact",
           "languages": "Languages",
@@ -22,22 +22,22 @@ i18n
           "viewProject": "View Project",
           "projectTitles": {
             "project1": "E-Commerce Platform",
-            "project2": "Task Management App",
-            "project3": "Social Media Dashboard"
+            "project2": "codeforces_bot",
+            "project3": ""
           },
           "projectDescriptions": {
-            "project1": "A modern e-commerce platform built with React and Node.js, featuring real-time inventory updates and secure payment processing.",
-            "project2": "A collaborative task management application with real-time updates, drag-and-drop interface, and team collaboration features.",
-            "project3": "A comprehensive social media dashboard for analytics and content management across multiple platforms."
+            "project1": "FastMark - A web application on react for automating the filling of certificates and other documents using a template and tables.",
+            "project2": "Telegram bot for daily solving codeforce's problems",
+            "project3": ""
           }
         }
       },
       ru: {
         translation: {
-          "greeting": "Привет, я",
-          "role": "Full Stack Разработчик",
+          "greeting": "Привет, я Амир Альтин",
+          "role": "учусь программировать",
           "about": "Обо мне",
-          "aboutText": "Увлечен созданием красивых и функциональных веб-приложений. Обладаю экспертизой в современных веб-технологиях и чутким взглядом на дизайн.",
+          "aboutText": "Увлечен созданием красивых сайтов, это расслабляет. В ближайшем будущем планирую начать изучать математику и нейронные сети.",
           "skills": "Навыки",
           "contact": "Контакты",
           "languages": "Языки",
@@ -46,14 +46,14 @@ i18n
           "projects": "Проекты",
           "viewProject": "Посмотреть проект",
           "projectTitles": {
-            "project1": "E-Commerce Платформа",
-            "project2": "Приложение для управления задачами",
-            "project3": "Панель управления соцсетями"
+            "project1": "FastMark",
+            "project2": "codeforces_bot",
+            "project3": ""
           },
           "projectDescriptions": {
-            "project1": "Современная платформа электронной коммерции, построенная на React и Node.js, с функциями обновления инвентаря в реальном времени и безопасной обработкой платежей.",
-            "project2": "Приложение для совместного управления задачами с обновлениями в реальном времени, интерфейсом drag-and-drop и функциями командного взаимодействия.",
-            "project3": "Комплексная панель управления социальными сетями для аналитики и управления контентом на нескольких платформах."
+            "project1": "Веб-приложение на react для автоматизации заполнения грамот и иных документов при помощи шаблона и таблиц.",
+            "project2": "Телеграмм-бот для ежедневных задач из codeforces",
+            "project3": ""
           }
         }
       }
