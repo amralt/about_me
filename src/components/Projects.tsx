@@ -7,9 +7,9 @@ export const Projects: React.FC = () => {
   const { t } = useTranslation();
 
   const projectImages = [
-    "https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&w=800&q=80",
-    "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&q=80",
-    "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80"
+    "https://i.pinimg.com/736x/13/f0/50/13f05081e45234b7ff9061ac73e0d16b.jpg",
+    "https://i.pinimg.com/736x/16/08/58/160858923d467feaaa9de5c134246a22.jpg",
+    ""
   ];
 
   return (

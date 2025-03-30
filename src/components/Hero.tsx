@@ -8,7 +8,7 @@ export const Hero: React.FC = () => {
   return (
     <motion.section className="text-center mb-20">
       <h2 className="text-6xl font-bold mb-4">{t('greeting')}</h2>
-      <p className="text-2xl text-gray-600 dark:text-gray-400">{t('hero')}</p>
+      <p className="text-2xl text-gray-600 dark:text-gray-400">{t('role')}</p>
     </motion.section>
   );
 };

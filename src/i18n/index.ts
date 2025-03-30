@@ -10,7 +10,7 @@ i18n
       en: {
         translation: {
           "greeting": "Hi, I'm Amir Altin",
-          "role": "Full Stack Developer",
+          "role": "study programming",
           "about": "About Me",
           "aboutText": "Passionate about creating beautiful and functional web applications. In the future I plan to start studying mathematics and neural networks.",
           "skills": "Skills",
@@ -21,7 +21,7 @@ i18n
           "projects": "Projects",
           "viewProject": "View Project",
           "projectTitles": {
-            "project1": "E-Commerce Platform",
+            "project1": "FastMark",
             "project2": "codeforces_bot",
             "project3": ""
           },
