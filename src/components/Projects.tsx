@@ -38,7 +38,7 @@ export const Projects: React.FC = () => {
                     {t(`projectDescriptions.project${projectNum}`)}
                   </p>
                   <motion.a
-                    href="#"
+                    href={t(`projectLinks.project${projectNum}`)}
                     className="inline-flex items-center gap-2 bg-white text-black px-4 py-2 rounded-full"
                     whileHover={{ scale: 1.1 }}
                     whileTap={{ scale: 0.9 }}

@@ -29,6 +29,11 @@ i18n
             "project1": "FastMark - A web application on react for automating the filling of certificates and other documents using a template and tables.",
             "project2": "Telegram bot for daily solving codeforce's problems",
             "project3": ""
+          },
+          "projectLinks": {
+            "project1": "https://fast-mark.github.io/main-app/",
+            "project2": "https://github.com/amralt/codeforces_bot",
+            "project3": "https://github.com/amralt/codeforces_bot",
           }
         }
       },
@@ -54,6 +59,11 @@ i18n
             "project1": "Веб-приложение на react для автоматизации заполнения грамот и иных документов при помощи шаблона и таблиц.",
             "project2": "Телеграмм-бот для ежедневных задач из codeforces",
             "project3": ""
+          },
+          "projectLinks": {
+            "project1": "https://fast-mark.github.io/main-app/",
+            "project2": "https://github.com/amralt/codeforces_bot", //TODO: добавить проекты
+            "project3": "https://github.com/amralt/codeforces_bot",
           }
         }
       }
