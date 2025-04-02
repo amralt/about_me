@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { Header } from './components/Header';
 import { Hero } from './components/Hero';
@@ -9,6 +9,12 @@ import { Contact } from './components/Contact';
 
 function App() {
   const [isDark, setIsDark] = useState(false);
+
+  useEffect(() => {
+    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      setIsDark(true)
+    }
+  }, [])
 
   const toggleTheme = () => {
     setIsDark(!isDark);
